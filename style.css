@@ -1,0 +1,45 @@
+
+
+body{
+  background-image: url("https://i.pinimg.com/originals/f1/92/15/f19215a7c008dc7b0bc4c36a7dd4021c.jpg");
+  height:auto;
+  width:auto;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.icon{
+  font-size: 8px;
+}
+
+}
+
+
+#NavigationBar{
+  line-height: 2;
+  padding-left: 10px;
+  color:black;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Georgia;
+}
+
+#NavigationBar span{
+  margin: 10px;
+}
+
+
+
+#HomePage{
+  text-align:center;
+  color: white;
+  font-size: 80px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  font-family: Georgia;
+}
+
+.bottom{
+  text-align: right;
+  padding-top: 40px;
+}

@@ -1,0 +1,31 @@
+h2{
+  text-align: center;
+  font-family:sans-serif;
+}
+h4{
+
+}
+h3{
+  text-align: center;
+  text-align: center;
+  font-family:"Times New Roman";
+}
+
+ul li{
+  text-align: left;
+  font-family:"Times New Roman";
+  padding-left: 30px;
+  }
+
+body{
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: rgb(176,196,222);
+  border:solid 20px rgb(119,136,153);
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
